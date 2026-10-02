@@ -45,3 +45,13 @@
 
 </body>
 </html>
+
+<p> et </p> : Le paragraphe. Il regroupe les deux liens dans un même bloc de texte.
+
+<a ...> : La balise de lien (pour anchor / ancre). Elle indique au navigateur qu'il s'agit d'un élément cliquable.
+
+href="..." : L'attribut de destination. Il indique l'adresse web exact (URL) vers laquelle l'utilisateur sera redirigé au clic.
+
+Le texte entre <a> et </a> (Visiter Leboncoin ou Visiter Amazon) : C'est le texte visible sur la page, sur lequel l'utilisateur va cliquer.
+
+<br/> : Le retour à la ligne (pour break). Sans cette balise, le navigateur afficherait les deux liens collés l'un à côté de l'autre sur la même ligne.
